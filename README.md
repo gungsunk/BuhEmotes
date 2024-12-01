@@ -5,11 +5,14 @@
 Step 1: Install the Twitch Emotes addon: 
 https://www.curseforge.com/wow/addons/twitch-emotes-v2
 
-Step 2: Paste the files into your Twitch Emotes addon folder. 
+Step 2: Paste the files into your Twitch Emotes addon folder.
+
 (\World of Warcraft\_retail_\Interface\AddOns\TwitchEmotes) - Retail
+
 (\World of Warcraft\_classic_era_\Interface\AddOns\TwitchEmotes) - Classic
 
 For retail - make sure it overwrites the TwitchEmotes.toc file
+
 For vanilla - make sure it overwrites the TwitchEmotes.toc file and the TwitchEmotes_Vanilla.toc file
 
 ## Added emotes

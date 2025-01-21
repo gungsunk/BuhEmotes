@@ -14,79 +14,30 @@ For vanilla - make sure it overwrites the TwitchEmotes.toc file and the TwitchEm
 
 ## Added emotes
 
-v3
+v4
+
 New Emotes:
 
-Aloo
-chicanery
-forsenFaint
-glorpFaint
-kok
-Lamonting
-mhm
-nuhuh
-poroAgony
-poroInsane
-skip
-uuh
-deadNimes
-glewpert
-hesLying
-LALO
-LALOE
-okak
-otag
-PLAAAY
-Swag
-SwagOff
-zazaglorp
-Swagging
-yougotmail
+pokiLoser, Cinema, kittenlover, Lemon, lule, PAYUP, COIN, Coins, WalterIsSus, forsenNugget, Speechless, bbL, forsenMissing, BeerTime, GETOUTTAHERE, forsenTRICKLEIN, CoinTime, ome, ome2, creature, Coinge
 
+v3
 
+New Emotes:
 
+Aloo, chicanery, forsenFaint, glorpFaint, kok, Lamonting, mhm, nuhuh, poroAgony, poroInsane, skip, uuh, deadNimes, glewpert, hesLying, LALO, LALOE, okak, otag, PLAAAY, Swag, SwagOff, zazaglorp, Swagging, yougotmail
 
 v2
+
 New emotes:
 
-catSigh
-catWait
-Pffttt
-prePffttt
-GULP
-vegan
-erm
-IHaveBrainDamage
-500cigarettes
-Ermki
-keking
-wait
-tainy
-Despairm
-er
-eww
-forsenAlright
-hesGripping
-ta0
-waiting
-
+catSigh, catWait, Pffttt, prePffttt, GULP, vegan, erm, IHaveBrainDamage, 500cigarettes, Ermki, keking, wait, tainy, Despairm, er, eww, forsenAlright, hesGripping, ta0, waiting
 
 Redone emotes:
 
-WhatTAAHFuck
-YesThisIsTheTwoTime
-OOOO
-Aplonk
-MUGA
-forsenExplainingHow
-AINTNOWAY
-OHMYGOD
-
-
-
+WhatTAAHFuck, YesThisIsTheTwoTime, OOOO, Aplonk, MUGA, forsenExplainingHow, AINTNOWAY, OHMYGOD
 
 v1
+
 New Emotes:
 
-clappi
-oopsie
+clappi, oopsie

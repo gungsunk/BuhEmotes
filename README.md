@@ -1,4 +1,4 @@
-#Buh Emotes
+# Buh Emotes
 ## Installation
 
 Step 1: Install the [Twitch Emotes](https://www.curseforge.com/wow/addons/twitch-emotes-v2) addon. 

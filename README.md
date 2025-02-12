@@ -1,8 +1,7 @@
 #Buh Emotes
 ## Installation
 
-Step 1: Install the Twitch Emotes addon: 
-https://www.curseforge.com/wow/addons/twitch-emotes-v2
+Step 1: Install the [Twitch Emotes](https://www.curseforge.com/wow/addons/twitch-emotes-v2) addon. 
 
 Step 2: Paste the TwitchEmotes_Buh folder into your AddOns folder.  
 Retail - (\World of Warcraft\\\_retail_\Interface\AddOns\\)  

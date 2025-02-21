@@ -1,5 +1,32 @@
 basePath = "Interface\\AddOns\\TwitchEmotes_Buh\\emotes\\";
 
+TwitchEmotes_animation_metadata[basePath .. "peepoLeave.tga"] = {["nFrames"] = 105, ["frameWidth"] = 63, ["frameHeight"] = 32, ["imageWidth"]= 63, ["imageHeight"]= 3360, ["framerate"] = 46}
+TwitchEmotes_animation_metadata[basePath .. "emiruStare.tga"] = {["nFrames"] = 216, ["frameWidth"] = 44, ["frameHeight"] = 32, ["imageWidth"]= 44, ["imageHeight"]= 6912, ["framerate"] = 29}
+TwitchEmotes_animation_metadata[basePath .. "Floppas.tga"] = {["nFrames"] = 8, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 256, ["framerate"] = 25}
+TwitchEmotes_animation_metadata[basePath .. "Listening.tga"] = {["nFrames"] = 162, ["frameWidth"] = 56, ["frameHeight"] = 32, ["imageWidth"]= 56, ["imageHeight"]= 5184, ["framerate"] = 29}
+TwitchEmotes_animation_metadata[basePath .. "terryExplainingHow.tga"] = {["nFrames"] = 41, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1312, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "badvibes.tga"] = {["nFrames"] = 90, ["frameWidth"] = 96, ["frameHeight"] = 32, ["imageWidth"]= 96, ["imageHeight"]= 2880, ["framerate"] = 15}
+TwitchEmotes_animation_metadata[basePath .. "Pffttt.tga"] = {["nFrames"] = 156, ["frameWidth"] = 54, ["frameHeight"] = 32, ["imageWidth"]= 54, ["imageHeight"]= 4992, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "BRAINROT.tga"] = {["nFrames"] = 13, ["frameWidth"] = 61, ["frameHeight"] = 32, ["imageWidth"]= 61, ["imageHeight"]= 416, ["framerate"] = 25}
+TwitchEmotes_animation_metadata[basePath .. "mauw.tga"] = {["nFrames"] = 53, ["frameWidth"] = 34, ["frameHeight"] = 32, ["imageWidth"]= 34, ["imageHeight"]= 1696, ["framerate"] = 16}
+TwitchEmotes_animation_metadata[basePath .. "catWHAT.tga"] = {["nFrames"] = 34, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1088, ["framerate"] = 14}
+TwitchEmotes_animation_metadata[basePath .. "forsenGravity.tga"] = {["nFrames"] = 113, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 3616, ["framerate"] = 30}
+TwitchEmotes_animation_metadata[basePath .. "Liming.tga"] = {["nFrames"] = 7, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 224, ["framerate"] = 5}
+TwitchEmotes_animation_metadata[basePath .. "segs.tga"] = {["nFrames"] = 368, ["frameWidth"] = 28, ["frameHeight"] = 32, ["imageWidth"]= 28, ["imageHeight"]= 11776, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "YESKING.tga"] = {["nFrames"] = 75, ["frameWidth"] = 35, ["frameHeight"] = 32, ["imageWidth"]= 35, ["imageHeight"]= 2400, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "BEGGING.tga"] = {["nFrames"] = 105, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 3360, ["framerate"] = 29}
+TwitchEmotes_animation_metadata[basePath .. "ThankYou.tga"] = {["nFrames"] = 413, ["frameWidth"] = 80, ["frameHeight"] = 32, ["imageWidth"]= 80, ["imageHeight"]= 13216, ["framerate"] = 50}
+TwitchEmotes_animation_metadata[basePath .. "BOBER.tga"] = {["nFrames"] = 147, ["frameWidth"] = 27, ["frameHeight"] = 32, ["imageWidth"]= 27, ["imageHeight"]= 4704, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "catAsk.tga"] = {["nFrames"] = 63, ["frameWidth"] = 21, ["frameHeight"] = 32, ["imageWidth"]= 21, ["imageHeight"]= 2016, ["framerate"] = 25}
+TwitchEmotes_animation_metadata[basePath .. "Peace.tga"] = {["nFrames"] = 151, ["frameWidth"] = 65, ["frameHeight"] = 32, ["imageWidth"]= 65, ["imageHeight"]= 4832, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "SCHIZO.tga"] = {["nFrames"] = 40, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1280, ["framerate"] = 17}
+TwitchEmotes_animation_metadata[basePath .. "LODDERS.tga"] = {["nFrames"] = 118, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 3776, ["framerate"] = 49}
+TwitchEmotes_animation_metadata[basePath .. "NOTED.tga"] = {["nFrames"] = 85, ["frameWidth"] = 39, ["frameHeight"] = 32, ["imageWidth"]= 39, ["imageHeight"]= 2720, ["framerate"] = 50}
+TwitchEmotes_animation_metadata[basePath .. "HolyMoly.tga"] = {["nFrames"] = 22, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 704, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "hurrythefuckup.tga"] = {["nFrames"] = 144, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 4608, ["framerate"] = 50}
+TwitchEmotes_animation_metadata[basePath .. "ForsenSingingAtYou.tga"] = {["nFrames"] = 300, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 9600, ["framerate"] = 20}
+TwitchEmotes_animation_metadata[basePath .. "SAVEME.tga"] = {["nFrames"] = 228, ["frameWidth"] = 50, ["frameHeight"] = 32, ["imageWidth"]= 50, ["imageHeight"]= 7296, ["framerate"] = 33}
+
 TwitchEmotes_animation_metadata[basePath .. "pokiLoser.tga"] = {["nFrames"] = 35, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1120, ["framerate"] = 50}
 TwitchEmotes_animation_metadata[basePath .. "lule.tga"] = {["nFrames"] = 58, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1856, ["framerate"] = 21}
 TwitchEmotes_animation_metadata[basePath .. "PAYUP.tga"] = {["nFrames"] = 130, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 4160, ["framerate"] = 20}
@@ -81,7 +108,6 @@ TwitchEmotes_animation_metadata[basePath .. "Ermki.tga"] = {["nFrames"] = 123, [
 TwitchEmotes_animation_metadata[basePath .. "GULP.tga"] = {["nFrames"] = 42, ["frameWidth"] = 32,["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 2048, ["framerate"] = 12}
 TwitchEmotes_animation_metadata[basePath .. "IHaveBrainDamage.tga"] = {["nFrames"] = 175, ["frameWidth"] = 32,["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 8192, ["framerate"] = 30}
 TwitchEmotes_animation_metadata[basePath .. "keking.tga"] = {["nFrames"] = 125, ["frameWidth"] = 32,["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 4096, ["framerate"] = 40}
-TwitchEmotes_animation_metadata[basePath .. "Pffttt.tga"] = {["nFrames"] = 41, ["frameWidth"] = 32,["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 2048, ["framerate"] = 15}
 TwitchEmotes_animation_metadata[basePath .. "prePffttt.tga"] = {["nFrames"] = 54, ["frameWidth"] = 32,["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 2048, ["framerate"] = 18}
 TwitchEmotes_animation_metadata[basePath .. "vegan.tga"] = {["nFrames"] = 90, ["frameWidth"] = 32,["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 4096, ["framerate"] = 60}
 TwitchEmotes_animation_metadata[basePath .. "wait.tga"] = {["nFrames"] = 120, ["frameWidth"] = 32,["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 4096, ["framerate"] = 20}

@@ -9,6 +9,58 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 
 ## Added emotes
 
+### v5
+
+#### New emotes:
+
+- peepoLeave
+- emiruStare
+- Floppas
+- Listening
+- terryExplainingHow
+- Clueleg
+- badvibes
+- Baseg
+- Lemonball
+- BRAINROT
+- mauw
+- catWHAT
+- forsenGravity
+- Liming
+- tupidsit
+- Tupid
+- segs
+- YESKING
+- creatureStranglingDoc
+- docStranglingtheLifeOutOfCreature
+- BEGGING
+- ThankYou
+- reallybuh
+- kyle
+- kevin
+- digRat
+- BOBER
+- catAsk
+- Peace
+- SCHIZO
+- Paineg
+- docTA
+- Aight
+- LODDERS
+- Pagnet
+- PagEg
+- NOTED
+- HolyMoly
+- hurrythefuckup
+- ForsenSingingAtYou
+- SAVEME
+- WeirdChamp
+
+#### Emote changes:
+
+- Renamed Drunkge to ALE.
+- Changed Pffttt to wide version.
+
 ### v4
 
 #### New Emotes:

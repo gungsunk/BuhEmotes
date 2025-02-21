@@ -60,6 +60,12 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 
 - Renamed Drunkge to ALE.
 - Changed Pffttt to wide version.
+- Renamed confused to Confused.
+- Renamed looking to Looking.
+- Renamed hump to Hump.
+- Renamed waiting to WAIT.
+- Renamed wait to wade.
+- Renamed skip to skiP.
 
 ### v4
 

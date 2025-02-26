@@ -1,6 +1,19 @@
 basePath = "Interface\\AddOns\\TwitchEmotes_Buh\\emotes\\"
 
 buh_emotes = {
+   	["PepeSax"] = basePath .. "PepeSax.tga:28:28",
+   	["SaxTime"] = basePath .. "SaxTime.tga:28:26",
+   	["AMBATUSAX"] = basePath .. "AMBATUSAX.tga:28:28",
+   	["LL"] = basePath .. "LL.tga:28:28",
+   	["WW"] = basePath .. "WW.tga:28:28",
+   	["groupsegs"] = basePath .. "groupsegs.tga:28:73",
+   	["Olrite"] = basePath .. "Olrite.tga:28:28",
+   	["forsenIrie"] = basePath .. "forsenIrie.tga:28:39",
+   	["omgBruh"] = basePath .. "omgBruh.tga:28:28",
+   	["yalright"] = basePath .. "yalright.tga:28:28",
+   	["div44"] = basePath .. "div44.tga:28:74",
+   	["plonkton"] = basePath .. "plonkton.tga:28:28",
+
 	["peepoLeave"] = basePath .. "peepoLeave.tga:28:55",
 	["emiruStare"] = basePath .. "emiruStare.tga:28:38",
 	["Floppas"] = basePath .. "Floppas.tga:28:28",

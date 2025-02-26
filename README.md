@@ -9,6 +9,23 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 
 ## Added emotes
 
+### v6
+
+#### New emotes:
+
+- PepeSax
+- SaxTime
+- AMBATUSAX
+- LL
+- WW
+- groupsegs
+- Olrite
+- forsenIrie
+- omgBruh
+- yalright
+- div44
+- plonkton
+
 ### v5
 
 #### New emotes:

@@ -1,5 +1,15 @@
 basePath = "Interface\\AddOns\\TwitchEmotes_Buh\\emotes\\";
 
+TwitchEmotes_animation_metadata[basePath .. "PepeSax.tga"] = {["nFrames"] = 55, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1760, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "SaxTime.tga"] = {["nFrames"] = 12, ["frameWidth"] = 30, ["frameHeight"] = 32, ["imageWidth"]= 30, ["imageHeight"]= 384, ["framerate"] = 11}
+TwitchEmotes_animation_metadata[basePath .. "AMBATUSAX.tga"] = {["nFrames"] = 226, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 7232, ["framerate"] = 20}
+TwitchEmotes_animation_metadata[basePath .. "LL.tga"] = {["nFrames"] = 20, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 640, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "WW.tga"] = {["nFrames"] = 20, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 640, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "groupsegs.tga"] = {["nFrames"] = 368, ["frameWidth"] = 84, ["frameHeight"] = 32, ["imageWidth"]= 84, ["imageHeight"]= 11776, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "Olrite.tga"] = {["nFrames"] = 241, ["frameWidth"] = 33, ["frameHeight"] = 32, ["imageWidth"]= 33, ["imageHeight"]= 7712, ["framerate"] = 30}
+TwitchEmotes_animation_metadata[basePath .. "omgBruh.tga"] = {["nFrames"] = 60, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1920, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "div44.tga"] = {["nFrames"] = 76, ["frameWidth"] = 85, ["frameHeight"] = 32, ["imageWidth"]= 85, ["imageHeight"]= 2432, ["framerate"] = 50}
+
 TwitchEmotes_animation_metadata[basePath .. "peepoLeave.tga"] = {["nFrames"] = 105, ["frameWidth"] = 63, ["frameHeight"] = 32, ["imageWidth"]= 63, ["imageHeight"]= 3360, ["framerate"] = 46}
 TwitchEmotes_animation_metadata[basePath .. "emiruStare.tga"] = {["nFrames"] = 216, ["frameWidth"] = 44, ["frameHeight"] = 32, ["imageWidth"]= 44, ["imageHeight"]= 6912, ["framerate"] = 29}
 TwitchEmotes_animation_metadata[basePath .. "Floppas.tga"] = {["nFrames"] = 8, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 256, ["framerate"] = 25}

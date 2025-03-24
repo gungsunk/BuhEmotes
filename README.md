@@ -9,6 +9,59 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 
 ## Added emotes
 
+### v7
+
+#### New emotes:
+
+- erdent
+- Dentge
+- umm
+- HELP
+- woah
+- GIGA
+- SpeedLaugh
+- terry
+- 1984
+- PREDETERMINED
+- buffsticking
+- BompaWave
+- deadlole
+- ratBath
+- SHOWER
+- Lionsen
+- creatureStranglingElis
+- elisStranglingCreature
+- LFG
+- luli
+- PTSD
+- buhShakey
+- loel
+- TedChad
+- OsoPopoToto
+- Psyop
+- BANGER
+- WAITWAIT
+- GETINHERE
+- MONDAY
+- Moomoosen
+- OMGYOUGOTORANGEPARSE
+- JAJAJAJA
+- happie
+- YESIDOTHINKSO
+- eepy
+- hesBuh
+- Orm
+- CUM
+- StopBigJ
+- veryCreature
+- LimeD
+- whispering
+- questionmark
+- tenzinBackshots
+- nodeal
+- taDeal
+- :3
+
 ### v6
 
 #### New emotes:

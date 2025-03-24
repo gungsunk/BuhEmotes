@@ -1,5 +1,36 @@
 basePath = "Interface\\AddOns\\TwitchEmotes_Buh\\emotes\\";
 
+TwitchEmotes_animation_metadata[basePath .. "umm.tga"] = {["nFrames"] = 223, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 7136, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "woah.tga"] = {["nFrames"] = 86, ["frameWidth"] = 51, ["frameHeight"] = 32, ["imageWidth"]= 51, ["imageHeight"]= 2752, ["framerate"] = 29}
+TwitchEmotes_animation_metadata[basePath .. "SpeedLaugh.tga"] = {["nFrames"] = 166, ["frameWidth"] = 43, ["frameHeight"] = 32, ["imageWidth"]= 43, ["imageHeight"]= 5312, ["framerate"] = 29}
+TwitchEmotes_animation_metadata[basePath .. "1984.tga"] = {["nFrames"] = 30, ["frameWidth"] = 43, ["frameHeight"] = 32, ["imageWidth"]= 43, ["imageHeight"]= 960, ["framerate"] = 20}
+TwitchEmotes_animation_metadata[basePath .. "buffsticking.tga"] = {["nFrames"] = 2, ["frameWidth"] = 95, ["frameHeight"] = 32, ["imageWidth"]= 95, ["imageHeight"]= 64, ["framerate"] = 25}
+TwitchEmotes_animation_metadata[basePath .. "BompaWave.tga"] = {["nFrames"] = 44, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1408, ["framerate"] = 25}
+TwitchEmotes_animation_metadata[basePath .. "deadlole.tga"] = {["nFrames"] = 19, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 608, ["framerate"] = 6}
+TwitchEmotes_animation_metadata[basePath .. "ratBath.tga"] = {["nFrames"] = 66, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 2112, ["framerate"] = 25}
+TwitchEmotes_animation_metadata[basePath .. "SHOWER.tga"] = {["nFrames"] = 41, ["frameWidth"] = 27, ["frameHeight"] = 32, ["imageWidth"]= 27, ["imageHeight"]= 1312, ["framerate"] = 9}
+TwitchEmotes_animation_metadata[basePath .. "LFG.tga"] = {["nFrames"] = 35, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1120, ["framerate"] = 9}
+TwitchEmotes_animation_metadata[basePath .. "PTSD.tga"] = {["nFrames"] = 291, ["frameWidth"] = 41, ["frameHeight"] = 32, ["imageWidth"]= 41, ["imageHeight"]= 9312, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "buhShakey.tga"] = {["nFrames"] = 15, ["frameWidth"] = 33, ["frameHeight"] = 32, ["imageWidth"]= 33, ["imageHeight"]= 480, ["framerate"] = 14}
+TwitchEmotes_animation_metadata[basePath .. "loel.tga"] = {["nFrames"] = 78, ["frameWidth"] = 52, ["frameHeight"] = 28, ["imageWidth"]= 52, ["imageHeight"]= 2184, ["framerate"] = 17}
+TwitchEmotes_animation_metadata[basePath .. "TedChad.tga"] = {["nFrames"] = 97, ["frameWidth"] = 25, ["frameHeight"] = 32, ["imageWidth"]= 25, ["imageHeight"]= 3104, ["framerate"] = 29}
+TwitchEmotes_animation_metadata[basePath .. "OsoPopoToto.tga"] = {["nFrames"] = 160, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 5120, ["framerate"] = 50}
+TwitchEmotes_animation_metadata[basePath .. "BANGER.tga"] = {["nFrames"] = 114, ["frameWidth"] = 45, ["frameHeight"] = 32, ["imageWidth"]= 45, ["imageHeight"]= 3648, ["framerate"] = 20}
+TwitchEmotes_animation_metadata[basePath .. "WAITWAIT.tga"] = {["nFrames"] = 79, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 2528, ["framerate"] = 25}
+TwitchEmotes_animation_metadata[basePath .. "GETINHERE.tga"] = {["nFrames"] = 74, ["frameWidth"] = 48, ["frameHeight"] = 32, ["imageWidth"]= 48, ["imageHeight"]= 2368, ["framerate"] = 16}
+TwitchEmotes_animation_metadata[basePath .. "MONDAY.tga"] = {["nFrames"] = 174, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 5568, ["framerate"] = 29}
+TwitchEmotes_animation_metadata[basePath .. "OMGYOUGOTORANGEPARSE.tga"] = {["nFrames"] = 235, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 7520, ["framerate"] = 50}
+TwitchEmotes_animation_metadata[basePath .. "JAJAJAJA.tga"] = {["nFrames"] = 35, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1120, ["framerate"] = 15}
+TwitchEmotes_animation_metadata[basePath .. "happie.tga"] = {["nFrames"] = 120, ["frameWidth"] = 33, ["frameHeight"] = 32, ["imageWidth"]= 33, ["imageHeight"]= 3840, ["framerate"] = 25}
+TwitchEmotes_animation_metadata[basePath .. "YESIDOTHINKSO.tga"] = {["nFrames"] = 162, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 5184, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "eepy.tga"] = {["nFrames"] = 94, ["frameWidth"] = 36, ["frameHeight"] = 32, ["imageWidth"]= 36, ["imageHeight"]= 3008, ["framerate"] = 20}
+TwitchEmotes_animation_metadata[basePath .. "Orm.tga"] = {["nFrames"] = 242, ["frameWidth"] = 42, ["frameHeight"] = 32, ["imageWidth"]= 42, ["imageHeight"]= 7744, ["framerate"] = 20}
+TwitchEmotes_animation_metadata[basePath .. "CUM.tga"] = {["nFrames"] = 206, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 6592, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "veryCreature.tga"] = {["nFrames"] = 53, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1696, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "whispering.tga"] = {["nFrames"] = 430, ["frameWidth"] = 96, ["frameHeight"] = 32, ["imageWidth"]= 96, ["imageHeight"]= 13760, ["framerate"] = 50}
+TwitchEmotes_animation_metadata[basePath .. "tenzinBackshots.tga"] = {["nFrames"] = 382, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 12224, ["framerate"] = 56}
+TwitchEmotes_animation_metadata[basePath .. "nodeal.tga"] = {["nFrames"] = 15, ["frameWidth"] = 96, ["frameHeight"] = 32, ["imageWidth"]= 96, ["imageHeight"]= 480, ["framerate"] = 5}
+
 TwitchEmotes_animation_metadata[basePath .. "PepeSax.tga"] = {["nFrames"] = 55, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1760, ["framerate"] = 10}
 TwitchEmotes_animation_metadata[basePath .. "SaxTime.tga"] = {["nFrames"] = 12, ["frameWidth"] = 30, ["frameHeight"] = 32, ["imageWidth"]= 30, ["imageHeight"]= 384, ["framerate"] = 11}
 TwitchEmotes_animation_metadata[basePath .. "AMBATUSAX.tga"] = {["nFrames"] = 226, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 7232, ["framerate"] = 20}

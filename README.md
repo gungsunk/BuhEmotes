@@ -9,6 +9,58 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 
 ## Added emotes
 
+### v8
+
+#### Removed emotes:
+
+- NOTED (duplicate)
+- !erm
+
+#### Changed emotes:
+
+- Hippan
+- Hipposham
+- Renamed "NIME" to "Nime"
+
+#### New emotes:
+
+- emoneyAheadOfTheCurve
+- Retail
+- buhCheck
+- ErmSingingAtYou
+- BlobArrive
+- BlobMan
+- BLOBBING
+- forsenBlobased
+- TriBlob
+- forsenBlob
+- Patdge
+- omgBruhzzz
+- hesCreature
+- creaturePretendingToBeHappyWhileSufferingInAgonizingPain
+- creaturePray
+- creatureRant
+- peepoMonster
+- forsenmonkeyPls
+- buh7
+- Dutchge
+- MaxJump
+- forsenShroom
+- :33
+- goodnight
+- YOURMOM
+- emiruTeaTime
+- emiruBruh
+- emiruAlright
+- forsenWiggle
+- foodPOV
+- heMightBeRight
+- NimeSmile
+- tablE
+- cannySilly
+- :0
+- shesRight
+
 ### v7
 
 #### New emotes:

@@ -1,5 +1,24 @@
 basePath = "Interface\\AddOns\\TwitchEmotes_Buh\\emotes\\";
 
+TwitchEmotes_animation_metadata[basePath .. "Retail.tga"] = {["nFrames"] = 43, ["frameWidth"] = 38, ["frameHeight"] = 32, ["imageWidth"]= 38, ["imageHeight"]= 1376, ["framerate"] = 9}
+TwitchEmotes_animation_metadata[basePath .. "buhCheck.tga"] = {["nFrames"] = 159, ["frameWidth"] = 43, ["frameHeight"] = 32, ["imageWidth"]= 43, ["imageHeight"]= 5088, ["framerate"] = 31}
+TwitchEmotes_animation_metadata[basePath .. "ErmSingingAtYou.tga"] = {["nFrames"] = 223, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 7136, ["framerate"] = 14}
+TwitchEmotes_animation_metadata[basePath .. "BlobArrive.tga"] = {["nFrames"] = 57, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1824, ["framerate"] = 17}
+TwitchEmotes_animation_metadata[basePath .. "BLOBBING.tga"] = {["nFrames"] = 6, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 192, ["framerate"] = 39}
+TwitchEmotes_animation_metadata[basePath .. "forsenBlob.tga"] = {["nFrames"] = 87, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 2784, ["framerate"] = 29}
+TwitchEmotes_animation_metadata[basePath .. "Patdge.tga"] = {["nFrames"] = 6, ["frameWidth"] = 44, ["frameHeight"] = 32, ["imageWidth"]= 44, ["imageHeight"]= 192, ["framerate"] = 14}
+TwitchEmotes_animation_metadata[basePath .. "omgBruhzzz.tga"] = {["nFrames"] = 34, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1088, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "creaturePretendingToBeHappyWhileSufferingInAgonizingPain.tga"] = {["nFrames"] = 107, ["frameWidth"] = 46, ["frameHeight"] = 32, ["imageWidth"]= 46, ["imageHeight"]= 3424, ["framerate"] = 23}
+TwitchEmotes_animation_metadata[basePath .. "creatureRant.tga"] = {["nFrames"] = 41, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1312, ["framerate"] = 15}
+TwitchEmotes_animation_metadata[basePath .. "peepoMonster.tga"] = {["nFrames"] = 6, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 192, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "forsenmonkeyPls.tga"] = {["nFrames"] = 30, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 960, ["framerate"] = 8}
+TwitchEmotes_animation_metadata[basePath .. "YOURMOM.tga"] = {["nFrames"] = 27, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 864, ["framerate"] = 50}
+TwitchEmotes_animation_metadata[basePath .. "emiruTeaTime.tga"] = {["nFrames"] = 75, ["frameWidth"] = 57, ["frameHeight"] = 32, ["imageWidth"]= 57, ["imageHeight"]= 2400, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "emiruBruh.tga"] = {["nFrames"] = 66, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 2112, ["framerate"] = 30}
+TwitchEmotes_animation_metadata[basePath .. "forsenWiggle.tga"] = {["nFrames"] = 12, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 384, ["framerate"] = 14}
+TwitchEmotes_animation_metadata[basePath .. "foodPOV.tga"] = {["nFrames"] = 94, ["frameWidth"] = 65, ["frameHeight"] = 32, ["imageWidth"]= 65, ["imageHeight"]= 3008, ["framerate"] = 32}
+TwitchEmotes_animation_metadata[basePath .. "cannySilly.tga"] = {["nFrames"] = 141, ["frameWidth"] = 31, ["frameHeight"] = 32, ["imageWidth"]= 31, ["imageHeight"]= 4512, ["framerate"] = 25}
+
 TwitchEmotes_animation_metadata[basePath .. "umm.tga"] = {["nFrames"] = 223, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 7136, ["framerate"] = 33}
 TwitchEmotes_animation_metadata[basePath .. "woah.tga"] = {["nFrames"] = 86, ["frameWidth"] = 51, ["frameHeight"] = 32, ["imageWidth"]= 51, ["imageHeight"]= 2752, ["framerate"] = 29}
 TwitchEmotes_animation_metadata[basePath .. "SpeedLaugh.tga"] = {["nFrames"] = 166, ["frameWidth"] = 43, ["frameHeight"] = 32, ["imageWidth"]= 43, ["imageHeight"]= 5312, ["framerate"] = 29}

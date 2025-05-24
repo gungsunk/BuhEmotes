@@ -9,6 +9,39 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 
 ## Added emotes
 
+### v9
+
+#### Changed emotes:
+- cokebert
+- zazabert
+- zazaglorp
+- crackbert
+
+#### New emotes:
+- orangeLeave
+- orangeArrive
+- emiruEEEK
+- OlBite
+- nymnBoink
+- forsenPls
+- GachiPls
+- meskuggah
+- uhhhh
+- RigbyPiss
+- dankWave
+- DonkWave
+- WAAAAAVE
+- Heyge
+- RightThere
+- tahi
+- Citrus
+- JointTime
+- clairoWave
+- forrestWave
+- forsenSOD
+- gambabert
+- elisGAMBA
+
 ### v8
 
 #### Removed emotes:

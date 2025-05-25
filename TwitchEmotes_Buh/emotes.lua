@@ -25,7 +25,7 @@ buh_emotes = {
 	["JointTime"] = basePath .. "JointTime.tga:28:28",
 	["clairoWave"] = basePath .. "clairoWave.tga:28:28",
 	["forrestWave"] = basePath .. "forrestWave.tga:28:56",
-	["forsenSOD"] = basePath .. "forsenSOD.tga:28:28",
+	["Forsensod"] = basePath .. "forsenSOD.tga:28:28",
 	["gambabert"] = basePath .. "gambabert.tga:28:49",
 	["elisGAMBA"] = basePath .. "elisGAMBA.tga:28:28",
 

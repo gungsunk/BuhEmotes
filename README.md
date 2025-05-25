@@ -25,7 +25,7 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 - nymnBoink
 - forsenPls
 - GachiPls
-- meskuggah
+- Meskuggah
 - uhhhh
 - RigbyPiss
 - dankWave
@@ -38,7 +38,7 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 - JointTime
 - clairoWave
 - forrestWave
-- forsenSOD
+- Forsensod
 - gambabert
 - elisGAMBA
 

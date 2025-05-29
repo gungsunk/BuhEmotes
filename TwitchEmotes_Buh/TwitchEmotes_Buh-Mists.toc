@@ -1,0 +1,8 @@
+## Interface: 50500
+## Version: 9
+## Title: Buh Twitch Emotes
+## IconTexture: Interface\AddOns\TwitchEmotes\Emotes\1337.tga
+## Dependencies: TwitchEmotes
+emotes.lua
+animation.lua
+main.lua

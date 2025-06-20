@@ -9,6 +9,35 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 
 ## Added emotes
 
+### v10
+
+#### New emotes:
+- Dodge
+- nymnTa
+- Sludge
+- forsenFITTA
+- okok
+- Bandage
+- mee
+- Pause
+- BBoomer
+- s2
+- lerolero
+- poorsad
+- WiseTree
+- Considering
+- Shock
+- NOWAY
+- NowWot
+- gleroglero
+- PORLULE
+- AlienPls
+- Washed
+- FYOUcat
+- buhFeet
+- PoroS
+
+
 ### v9
 
 #### Changed emotes:

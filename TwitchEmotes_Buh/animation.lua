@@ -1,5 +1,18 @@
 basePath = "Interface\\AddOns\\TwitchEmotes_Buh\\emotes\\";
 
+TwitchEmotes_animation_metadata[basePath .. "Dodge.tga"] = {["nFrames"] = 115, ["frameWidth"] = 57, ["frameHeight"] = 32, ["imageWidth"]= 57, ["imageHeight"]= 3680, ["framerate"] = 24}
+TwitchEmotes_animation_metadata[basePath .. "forsenFITTA.tga"] = {["nFrames"] = 3, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 96, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "okok.tga"] = {["nFrames"] = 9, ["frameWidth"] = 46, ["frameHeight"] = 32, ["imageWidth"]= 46, ["imageHeight"]= 288, ["framerate"] = 4}
+TwitchEmotes_animation_metadata[basePath .. "mee.tga"] = {["nFrames"] = 39, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1248, ["framerate"] = 15}
+TwitchEmotes_animation_metadata[basePath .. "BBoomer.tga"] = {["nFrames"] = 13, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 416, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "s2.tga"] = {["nFrames"] = 117, ["frameWidth"] = 33, ["frameHeight"] = 32, ["imageWidth"]= 33, ["imageHeight"]= 3744, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "lerolero.tga"] = {["nFrames"] = 22, ["frameWidth"] = 68, ["frameHeight"] = 32, ["imageWidth"]= 68, ["imageHeight"]= 704, ["framerate"] = 34}
+TwitchEmotes_animation_metadata[basePath .. "NOWAY.tga"] = {["nFrames"] = 44, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1408, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "gleroglero.tga"] = {["nFrames"] = 22, ["frameWidth"] = 68, ["frameHeight"] = 32, ["imageWidth"]= 68, ["imageHeight"]= 704, ["framerate"] = 34}
+TwitchEmotes_animation_metadata[basePath .. "AlienPls.tga"] = {["nFrames"] = 256, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 8192, ["framerate"] = 39}
+TwitchEmotes_animation_metadata[basePath .. "buhFeet.tga"] = {["nFrames"] = 117, ["frameWidth"] = 45, ["frameHeight"] = 32, ["imageWidth"]= 45, ["imageHeight"]= 3744, ["framerate"] = 20}
+TwitchEmotes_animation_metadata[basePath .. "PoroS.tga"] = {["nFrames"] = 8, ["frameWidth"] = 96, ["frameHeight"] = 32, ["imageWidth"]= 96, ["imageHeight"]= 256, ["framerate"] = 5}
+
 TwitchEmotes_animation_metadata[basePath .. "orangeLeave.tga"] = {["nFrames"] = 75, ["frameWidth"] = 34, ["frameHeight"] = 32, ["imageWidth"]= 34, ["imageHeight"]= 2400, ["framerate"] = 21}
 TwitchEmotes_animation_metadata[basePath .. "orangeArrive.tga"] = {["nFrames"] = 75, ["frameWidth"] = 34, ["frameHeight"] = 32, ["imageWidth"]= 34, ["imageHeight"]= 2400, ["framerate"] = 21}
 TwitchEmotes_animation_metadata[basePath .. "emiruEEEK.tga"] = {["nFrames"] = 71, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 2272, ["framerate"] = 25}

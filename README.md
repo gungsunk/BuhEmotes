@@ -9,6 +9,39 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 
 ## Added emotes
 
+### v11
+
+#### New emotes:
+
+- e
+- tak
+- LastL
+- SLAAAAY
+- omgUnc
+- bbCheer
+- GLAM
+- buhKisser
+- buhPisser
+- Olritey
+- Based
+- terrysan
+- Sisyfors
+- dailies
+- NAHH
+- LOOLO
+- LO
+- deadass
+- NOSHOT
+- IMLITERALLYDEAD
+- NAHHH
+- forsenSWA
+- WOMANDETECTED
+- MANIACAL
+- THEVOICES
+- OneMore
+- minus20
+- plus20
+
 ### v10
 
 #### New emotes:

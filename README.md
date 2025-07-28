@@ -12,7 +12,8 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 ### v11
 
 #### New emotes:
-
+- o7
+- Aware
 - e
 - tak
 - LastL

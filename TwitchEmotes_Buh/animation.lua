@@ -1,5 +1,6 @@
 basePath = "Interface\\AddOns\\TwitchEmotes_Buh\\emotes\\";
 
+TwitchEmotes_animation_metadata[basePath .. "Aware.tga"] = {["nFrames"] = 31, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=1024, ["framerate"] = 10}
 TwitchEmotes_animation_metadata[basePath .. "omgUnc.tga"] = {["nFrames"] = 35, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1120, ["framerate"] = 10}
 TwitchEmotes_animation_metadata[basePath .. "bbCheer.tga"] = {["nFrames"] = 25, ["frameWidth"] = 63, ["frameHeight"] = 32, ["imageWidth"]= 63, ["imageHeight"]= 800, ["framerate"] = 44}
 TwitchEmotes_animation_metadata[basePath .. "GLAM.tga"] = {["nFrames"] = 140, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 4480, ["framerate"] = 23}

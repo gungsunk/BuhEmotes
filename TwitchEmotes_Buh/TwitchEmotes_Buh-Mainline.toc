@@ -1,5 +1,5 @@
-## Interface: 110107
-## Version: 9
+## Interface: 110107, 110200
+## Version: 11
 ## Title: Buh Twitch Emotes
 ## IconTexture: Interface\AddOns\TwitchEmotes\Emotes\1337.tga
 ## Dependencies: TwitchEmotes

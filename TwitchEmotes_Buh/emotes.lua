@@ -1,6 +1,8 @@
 basePath = "Interface\\AddOns\\TwitchEmotes_Buh\\emotes\\"
 
 buh_emotes = {
+	["Aware"] = basePath .. "Aware.tga:28:28",
+	["o7"] = basePath .. "o7.tga:28:28",
 	["e"] = basePath .. "e.tga:28:17",
 	["tak"] = basePath .. "tak.tga:28:39",
 	["LastL"] = basePath .. "LastL.tga:28:59",

@@ -9,6 +9,22 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 
 ## Added emotes
 
+### v12
+
+#### New emotes:
+- tawow
+- taCaught
+- tamhm
+- TAWAY
+- taiting
+- hesTa
+- talatath
+- FeelsStrongBlob
+- forsenFlirt
+- gooning
+- PoroSit
+- postPffttt
+
 ### v11
 
 #### New emotes:

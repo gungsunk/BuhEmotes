@@ -1,6 +1,19 @@
 basePath = "Interface\\AddOns\\TwitchEmotes_Buh\\emotes\\"
 
 buh_emotes = {
+	["tawow"] = basePath .. "tawow.tga:28:99",
+	["taCaught"] = basePath .. "taCaught.tga:28:48",
+	["tamhm"] = basePath .. "tamhm.tga:28:32",
+	["TAWAY"] = basePath .. "TAWAY.tga:28:28",
+	["taiting"] = basePath .. "taiting.tga:28:40",
+	["hesTa"] = basePath .. "hesTa.tga:28:34",
+	["talatath"] = basePath .. "talatath.tga:28:64",
+	["FeelsStrongBlob"] = basePath .. "FeelsStrongBlob.tga:28:28",
+	["forsenFlirt"] = basePath .. "forsenFlirt.tga:28:28",
+	["gooning"] = basePath .. "gooning.tga:28:28",
+	["PoroSit"] = basePath .. "PoroSit.tga:28:28",
+	["postPffttt"] = basePath .. "postPffttt.tga:28:28",
+
 	["Aware"] = basePath .. "Aware.tga:28:28",
 	["o7"] = basePath .. "o7.tga:28:28",
 	["e"] = basePath .. "e.tga:28:17",

@@ -1,4 +1,10 @@
 basePath = "Interface\\AddOns\\TwitchEmotes_Buh\\emotes\\";
+TwitchEmotes_animation_metadata[basePath .. "tawow.tga"] = {["nFrames"] = 10, ["frameWidth"] = 96, ["frameHeight"] = 27, ["imageWidth"]= 96, ["imageHeight"]= 270, ["framerate"] = 19}
+TwitchEmotes_animation_metadata[basePath .. "tamhm.tga"] = {["nFrames"] = 9, ["frameWidth"] = 37, ["frameHeight"] = 32, ["imageWidth"]= 37, ["imageHeight"]= 288, ["framerate"] = 4}
+TwitchEmotes_animation_metadata[basePath .. "taiting.tga"] = {["nFrames"] = 21, ["frameWidth"] = 46, ["frameHeight"] = 32, ["imageWidth"]= 46, ["imageHeight"]= 672, ["framerate"] = 25}
+TwitchEmotes_animation_metadata[basePath .. "forsenFlirt.tga"] = {["nFrames"] = 15, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 480, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "gooning.tga"] = {["nFrames"] = 105, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 3360, ["framerate"] = 25}
+TwitchEmotes_animation_metadata[basePath .. "postPffttt.tga"] = {["nFrames"] = 252, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 8064, ["framerate"] = 23}
 
 TwitchEmotes_animation_metadata[basePath .. "Aware.tga"] = {["nFrames"] = 31, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]=32, ["imageHeight"]=1024, ["framerate"] = 10}
 TwitchEmotes_animation_metadata[basePath .. "omgUnc.tga"] = {["nFrames"] = 35, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1120, ["framerate"] = 10}

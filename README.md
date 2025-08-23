@@ -9,6 +9,43 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 
 ## Added emotes
 
+### v13
+
+#### New emotes:
+- CLM
+- BBidiot
+- BBirthday
+- Freaky
+- catfreak
+- PETTHEBB
+- whengempirnoticesfawcanisinthechatroom
+- ILiketoWatch
+- KELP
+- BAND
+- SCATTER
+- Fatass
+- Mage
+- Doakes
+- LAG
+- docBye
+- TryHarding
+- LOCKIN
+- docPls
+- BigDog
+- Mandarin
+- XD
+- PEPW
+- Braindead
+- Ragebait
+- Glerm
+- RAGING
+- LMAOOOOOOOOOO
+- heCrazy
+- baj
+- Ermplus
+- hehe
+- Devious
+
 ### v12
 
 #### New emotes:

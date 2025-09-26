@@ -9,6 +9,66 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 
 ## Added emotes
 
+### v14
+
+#### New emotes:
+- catP
+- Conar
+- ConarGlazing
+- hunterPOV
+- BMHunter
+- WOULD
+- hmmWalk
+- TAnk
+- Okaygi
+- SmugTime
+- Reflect
+- eeeh
+- VenomDunk
+- blamensius
+- PauseManSit
+- IFISPEAK
+- ITSOVER
+- Constipated
+- taBed
+- GASLIGHT
+- MakeAWish
+- mybad
+- jorkin
+- Cooked
+- WideDimensius
+- ONMYWAY
+- Pepeja
+- flushE
+- Brannge
+- UHMBrann
+- ThoseWebsWillSummonNerubiansDontStandInEm
+- Antenna
+- pokiNodders
+- THROWINPROGRESS
+- tatE
+- DIESOFCRINGE
+- ALARMA
+- Reacting
+- bruhFaint
+- ewww
+- bahnana
+- WATT
+- Erobbers
+- vibE
+- VibePls
+- glorpknight
+- Oldheaddance
+- Pugging
+- GASP
+- LibtardTears
+- yarbiePls
+- forsenFlex
+- preErobbers
+- imRight
+- bajing
+- glorpLO
+
 ### v13
 
 #### New emotes:

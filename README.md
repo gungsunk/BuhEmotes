@@ -9,6 +9,46 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 
 ## Added emotes
 
+### v15
+
+#### New emotes:
+- CatTime3
+- wideSpeedLaugh
+- catYeah
+- Dragonga
+- tatas
+- tuckk
+- tased
+- OMGALUL
+- Pepebanes
+- tata
+- hasanShock
+- hasan
+- wideSpeedNod
+- ImHIM
+- catSighExplode
+- CatTime
+- CatTime2
+- CatTimeParty
+- peepoDumb
+- ABOBA
+- LOLW
+- Madeg
+- BLUBBERS
+- Tssk
+- minionStare
+- RatArrive
+- KeshaWhat
+- emiWHAT
+- emiHey
+- wsg
+- clanker
+- UncPls
+- YeahThatsWhatIWouldaDid
+- WhenTheLatinaGyatClapsAndJiggles
+- BESTRIZZMOMENTS
+- SpeedFlip
+
 ### v14
 
 #### New emotes:

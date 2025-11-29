@@ -9,6 +9,23 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 
 ## Added emotes
 
+### v16
+
+#### New emotes:
+- wideOhShi
+- TheyGotYourMans
+- Madgi
+- Homi
+- Pepegi
+- SpeedOmg
+- wingsJAM
+- thelion
+- peepoScarab
+- duh
+- Donki
+- Danki
+- sylvieMid
+
 ### v15
 
 #### New emotes:

@@ -1,4 +1,12 @@
 basePath = "Interface\\AddOns\\TwitchEmotes_Buh\\emotes\\";
+TwitchEmotes_animation_metadata[basePath .. "wideOhShi.tga"] = {["nFrames"] = 39, ["frameWidth"] = 96, ["frameHeight"] = 32, ["imageWidth"]= 96, ["imageHeight"]= 1248, ["framerate"] = 20}
+TwitchEmotes_animation_metadata[basePath .. "TheyGotYourMans.tga"] = {["nFrames"] = 199, ["frameWidth"] = 64, ["frameHeight"] = 32, ["imageWidth"]= 64, ["imageHeight"]= 6368, ["framerate"] = 31}
+TwitchEmotes_animation_metadata[basePath .. "SpeedOmg.tga"] = {["nFrames"] = 70, ["frameWidth"] = 64, ["frameHeight"] = 32, ["imageWidth"]= 64, ["imageHeight"]= 2240, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "wingsJAM.tga"] = {["nFrames"] = 126, ["frameWidth"] = 55, ["frameHeight"] = 32, ["imageWidth"]= 55, ["imageHeight"]= 4032, ["framerate"] = 30}
+TwitchEmotes_animation_metadata[basePath .. "thelion.tga"] = {["nFrames"] = 103, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 3296, ["framerate"] = 20}
+TwitchEmotes_animation_metadata[basePath .. "peepoScarab.tga"] = {["nFrames"] = 34, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1088, ["framerate"] = 50}
+TwitchEmotes_animation_metadata[basePath .. "duh.tga"] = {["nFrames"] = 45, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1440, ["framerate"] = 25}
+
 TwitchEmotes_animation_metadata[basePath .. "CatTime3.tga"] = {["nFrames"] = 100, ["frameWidth"] = 24, ["frameHeight"] = 32, ["imageWidth"]= 24, ["imageHeight"]= 3200, ["framerate"] = 20}
 TwitchEmotes_animation_metadata[basePath .. "wideSpeedLaugh5.tga"] = {["nFrames"] = 165, ["frameWidth"] = 96, ["frameHeight"] = 32, ["imageWidth"]= 96, ["imageHeight"]= 5280, ["framerate"] = 33}
 TwitchEmotes_animation_metadata[basePath .. "tuckk.tga"] = {["nFrames"] = 6, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 192, ["framerate"] = 4}

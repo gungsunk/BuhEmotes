@@ -1,5 +1,5 @@
-## Interface: 50501, 50502
-## Version: 15
+## Interface: 50502, 50503
+## Version: 16
 ## Title: Buh Twitch Emotes
 ## IconTexture: Interface\AddOns\TwitchEmotes\Emotes\1337.tga
 ## Dependencies: TwitchEmotes

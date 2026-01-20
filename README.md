@@ -9,6 +9,41 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 
 ## Added emotes
 
+### v17
+
+#### New emotes:
+- fawcanC
+- ahware
+- talktothewatch
+- docYOU
+- BigLeagues
+- splort
+- tu
+- paulieLaughingAtYou
+- FurioStare
+- TonyArrive
+- morningeverybody
+- Buratino
+- batJAM
+- XO
+- FO
+- PepeSaved
+- LOLOL
+- paus
+- xgg
+- houseSussy
+- HouseRealizationEmote
+- amongH
+- houseArrive
+- houseWalk
+- HouseLookingAtYou
+- vexed
+- housedown
+- houseup
+- HOUSE
+- houseDespair
+- PoroMicrowave
+
 ### v16
 
 #### New emotes:

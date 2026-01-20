@@ -1,4 +1,19 @@
 basePath = "Interface\\AddOns\\TwitchEmotes_Buh\\emotes\\";
+TwitchEmotes_animation_metadata[basePath .. "ahware.tga"] = {["nFrames"] = 158, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 5056, ["framerate"] = 12}
+TwitchEmotes_animation_metadata[basePath .. "talktothewatch.tga"] = {["nFrames"] = 117, ["frameWidth"] = 55, ["frameHeight"] = 32, ["imageWidth"]= 55, ["imageHeight"]= 3744, ["framerate"] = 21}
+TwitchEmotes_animation_metadata[basePath .. "docYOU.tga"] = {["nFrames"] = 104, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 3328, ["framerate"] = 29}
+TwitchEmotes_animation_metadata[basePath .. "paulieLaughingAtYou.tga"] = {["nFrames"] = 124, ["frameWidth"] = 41, ["frameHeight"] = 32, ["imageWidth"]= 41, ["imageHeight"]= 3968, ["framerate"] = 20}
+TwitchEmotes_animation_metadata[basePath .. "TonyArrive.tga"] = {["nFrames"] = 73, ["frameWidth"] = 28, ["frameHeight"] = 32, ["imageWidth"]= 28, ["imageHeight"]= 2336, ["framerate"] = 24}
+TwitchEmotes_animation_metadata[basePath .. "morningeverybody.tga"] = {["nFrames"] = 36, ["frameWidth"] = 42, ["frameHeight"] = 32, ["imageWidth"]= 42, ["imageHeight"]= 1152, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "Buratino.tga"] = {["nFrames"] = 5, ["frameWidth"] = 78, ["frameHeight"] = 32, ["imageWidth"]= 78, ["imageHeight"]= 160, ["framerate"] = 13}
+TwitchEmotes_animation_metadata[basePath .. "batJAM.tga"] = {["nFrames"] = 73, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 2336, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "PepeSaved.tga"] = {["nFrames"] = 48, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1536, ["framerate"] = 12}
+TwitchEmotes_animation_metadata[basePath .. "LOLOL.tga"] = {["nFrames"] = 58, ["frameWidth"] = 96, ["frameHeight"] = 27, ["imageWidth"]= 96, ["imageHeight"]= 1566, ["framerate"] = 14}
+TwitchEmotes_animation_metadata[basePath .. "houseSussy.tga"] = {["nFrames"] = 48, ["frameWidth"] = 42, ["frameHeight"] = 32, ["imageWidth"]= 42, ["imageHeight"]= 1536, ["framerate"] = 9}
+TwitchEmotes_animation_metadata[basePath .. "HouseRealizationEmote.tga"] = {["nFrames"] = 45, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1440, ["framerate"] = 12}
+TwitchEmotes_animation_metadata[basePath .. "houseArrive.tga"] = {["nFrames"] = 52, ["frameWidth"] = 26, ["frameHeight"] = 32, ["imageWidth"]= 26, ["imageHeight"]= 1664, ["framerate"] = 15}
+TwitchEmotes_animation_metadata[basePath .. "houseWalk.tga"] = {["nFrames"] = 96, ["frameWidth"] = 57, ["frameHeight"] = 32, ["imageWidth"]= 57, ["imageHeight"]= 3072, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "PoroMicrowave.tga"] = {["nFrames"] = 14, ["frameWidth"] = 51, ["frameHeight"] = 32, ["imageWidth"]= 51, ["imageHeight"]= 448, ["framerate"] = 1}
 TwitchEmotes_animation_metadata[basePath .. "wideOhShi.tga"] = {["nFrames"] = 39, ["frameWidth"] = 96, ["frameHeight"] = 32, ["imageWidth"]= 96, ["imageHeight"]= 1248, ["framerate"] = 20}
 TwitchEmotes_animation_metadata[basePath .. "TheyGotYourMans.tga"] = {["nFrames"] = 199, ["frameWidth"] = 64, ["frameHeight"] = 32, ["imageWidth"]= 64, ["imageHeight"]= 6368, ["framerate"] = 31}
 TwitchEmotes_animation_metadata[basePath .. "SpeedOmg.tga"] = {["nFrames"] = 70, ["frameWidth"] = 64, ["frameHeight"] = 32, ["imageWidth"]= 64, ["imageHeight"]= 2240, ["framerate"] = 10}

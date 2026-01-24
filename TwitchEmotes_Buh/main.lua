@@ -95,39 +95,47 @@ end
 
 function TwitchEmotesAnimator_UpdateEmoteInFontString(fontstring, widthOverride, heightOverride)
     local txt = fontstring:GetText();
-    if issecretvalue(txt) == true then -- ? Allow non-secret emotes to continue to animate
-        return
+
+    -- 1. Safety Check: Ensure txt exists first
+    if (txt == nil) then 
+        return 
     end
-    if (txt ~= nil) then
-        for emoteTextureString in txt:gmatch("(|TInterface\\AddOns\\TwitchEmotes.-|t)") do
-            local imagepath = emoteTextureString:match("|T(Interface\\AddOns\\TwitchEmotes.-tga).-|t")
 
-            local animdata = TwitchEmotes_animation_metadata[imagepath];
-            if (animdata ~= nil) then
-                local framenum = TwitchEmotes_GetCurrentFrameNum(animdata);
-                local nTxt;
-		-- it is not an emote suggestion and it is a wide animated emote
-		if (widthOverride ~= 16 and animdata.frameWidth > 32) then
-                    nTxt = txt:gsub(escpattern(emoteTextureString),
-                                        TwitchEmotes_BuildEmoteFrameStringWithDimensions(
-                                        imagepath, animdata, framenum, animdata.frameHeight, animdata.frameWidth))
-		elseif (widthOverride ~= nil or heightOverride ~= nil) then
-                    nTxt = txt:gsub(escpattern(emoteTextureString),
-                                        TwitchEmotes_BuildEmoteFrameStringWithDimensions(
-                                        imagepath, animdata, framenum, widthOverride, heightOverride))
-                else
-                    nTxt = txt:gsub(escpattern(emoteTextureString),
-                                      TwitchEmotes_BuildEmoteFrameString(
-                                        imagepath, animdata, framenum))
-                end
+    -- 2. Secret Check: Only run if the function exists (Retail) AND returns true
+    if issecretvalue and issecretvalue(txt) then 
+        return 
+    end
 
-                -- If we're updating a chat message we need to alter the messageInfo as wel
-                if (fontstring.messageInfo ~= nil) then
-                    fontstring.messageInfo.message = nTxt
-                end
-                fontstring:SetText(nTxt);
-                txt = nTxt;
+    -- 3. Main Logic (Removed the 'if txt ~= nil' check since we did it at step 1)
+    for emoteTextureString in txt:gmatch("(|TInterface\\AddOns\\TwitchEmotes.-|t)") do
+        local imagepath = emoteTextureString:match("|T(Interface\\AddOns\\TwitchEmotes.-tga).-|t")
+        local animdata = TwitchEmotes_animation_metadata[imagepath];
+        
+        if (animdata ~= nil) then
+            local framenum = TwitchEmotes_GetCurrentFrameNum(animdata);
+            local nTxt;
+            
+            -- it is not an emote suggestion and it is a wide animated emote
+            if (widthOverride ~= 16 and animdata.frameWidth > 32) then
+                nTxt = txt:gsub(escpattern(emoteTextureString),
+                    TwitchEmotes_BuildEmoteFrameStringWithDimensions(
+                    imagepath, animdata, framenum, animdata.frameHeight, animdata.frameWidth))
+            elseif (widthOverride ~= nil or heightOverride ~= nil) then
+                nTxt = txt:gsub(escpattern(emoteTextureString),
+                    TwitchEmotes_BuildEmoteFrameStringWithDimensions(
+                    imagepath, animdata, framenum, widthOverride, heightOverride))
+            else
+                nTxt = txt:gsub(escpattern(emoteTextureString),
+                    TwitchEmotes_BuildEmoteFrameString(
+                    imagepath, animdata, framenum))
             end
+
+            -- If we're updating a chat message we need to alter the messageInfo as well
+            if (fontstring.messageInfo ~= nil) then
+                fontstring.messageInfo.message = nTxt
+            end
+            fontstring:SetText(nTxt);
+            txt = nTxt;
         end
     end
 end

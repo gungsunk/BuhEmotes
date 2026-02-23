@@ -9,6 +9,44 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 
 ## Added emotes
 
+### v18
+
+#### New emotes:
+- speedCall
+- speed1
+- speedThink
+- speed44
+- GENIUS
+- speed4
+- Notepad
+- spid
+- nymn7
+- TOPXI
+- XiJinNymN
+- PandaRoll
+- Pogre
+- AHA
+- notOlrite
+- Bean
+- glupid
+- RAHHH
+- BAHHH
+- tuff
+- AURA
+- emoneyNonverbal
+- emoneyFiles
+- emoneyTechSupport
+- MEMONEY
+- PleaseRespond
+- PRELAMONTING
+- SheResponded
+- iguessbro
+- Shrug
+- Agreeing
+- ambatuJam
+- lightningkitty
+- LELU
+
 ### v17
 
 #### New emotes:

@@ -1,4 +1,19 @@
 basePath = "Interface\\AddOns\\TwitchEmotes_Buh\\emotes\\";
+TwitchEmotes_animation_metadata[basePath .. "speedCall.tga"] = {["nFrames"] = 210, ["frameWidth"] = 96, ["frameHeight"] = 32, ["imageWidth"]= 96, ["imageHeight"]= 6720, ["framerate"] = 32}
+TwitchEmotes_animation_metadata[basePath .. "speed1.tga"] = {["nFrames"] = 59, ["frameWidth"] = 96, ["frameHeight"] = 32, ["imageWidth"]= 96, ["imageHeight"]= 1888, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "speedThink.tga"] = {["nFrames"] = 69, ["frameWidth"] = 95, ["frameHeight"] = 32, ["imageWidth"]= 95, ["imageHeight"]= 2208, ["framerate"] = 12}
+TwitchEmotes_animation_metadata[basePath .. "speed44.tga"] = {["nFrames"] = 51, ["frameWidth"] = 80, ["frameHeight"] = 32, ["imageWidth"]= 80, ["imageHeight"]= 1632, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "speed4.tga"] = {["nFrames"] = 39, ["frameWidth"] = 96, ["frameHeight"] = 32, ["imageWidth"]= 96, ["imageHeight"]= 1248, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "PandaRoll.tga"] = {["nFrames"] = 10, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 320, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "notOlrite.tga"] = {["nFrames"] = 62, ["frameWidth"] = 31, ["frameHeight"] = 32, ["imageWidth"]= 31, ["imageHeight"]= 1984, ["framerate"] = 30}
+TwitchEmotes_animation_metadata[basePath .. "RAHHH.tga"] = {["nFrames"] = 186, ["frameWidth"] = 41, ["frameHeight"] = 32, ["imageWidth"]= 41, ["imageHeight"]= 5952, ["framerate"] = 30}
+TwitchEmotes_animation_metadata[basePath .. "BAHHH.tga"] = {["nFrames"] = 91, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 2912, ["framerate"] = 16}
+TwitchEmotes_animation_metadata[basePath .. "AURA.tga"] = {["nFrames"] = 108, ["frameWidth"] = 40, ["frameHeight"] = 32, ["imageWidth"]= 40, ["imageHeight"]= 3456, ["framerate"] = 30}
+TwitchEmotes_animation_metadata[basePath .. "iguessbro.tga"] = {["nFrames"] = 72, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 2304, ["framerate"] = 14}
+TwitchEmotes_animation_metadata[basePath .. "Agreeing.tga"] = {["nFrames"] = 60, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1920, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "ambatuJam.tga"] = {["nFrames"] = 170, ["frameWidth"] = 48, ["frameHeight"] = 32, ["imageWidth"]= 48, ["imageHeight"]= 5440, ["framerate"] = 15}
+TwitchEmotes_animation_metadata[basePath .. "lightningkitty.tga"] = {["nFrames"] = 26, ["frameWidth"] = 31, ["frameHeight"] = 32, ["imageWidth"]= 31, ["imageHeight"]= 832, ["framerate"] = 12}
+
 TwitchEmotes_animation_metadata[basePath .. "ahware.tga"] = {["nFrames"] = 158, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 5056, ["framerate"] = 12}
 TwitchEmotes_animation_metadata[basePath .. "talktothewatch.tga"] = {["nFrames"] = 117, ["frameWidth"] = 55, ["frameHeight"] = 32, ["imageWidth"]= 55, ["imageHeight"]= 3744, ["framerate"] = 21}
 TwitchEmotes_animation_metadata[basePath .. "docYOU.tga"] = {["nFrames"] = 104, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 3328, ["framerate"] = 29}
@@ -190,7 +205,6 @@ TwitchEmotes_animation_metadata[basePath .. "cannySilly.tga"] = {["nFrames"] = 1
 
 TwitchEmotes_animation_metadata[basePath .. "umm.tga"] = {["nFrames"] = 223, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 7136, ["framerate"] = 33}
 TwitchEmotes_animation_metadata[basePath .. "woah.tga"] = {["nFrames"] = 86, ["frameWidth"] = 51, ["frameHeight"] = 32, ["imageWidth"]= 51, ["imageHeight"]= 2752, ["framerate"] = 29}
-TwitchEmotes_animation_metadata[basePath .. "SpeedLaugh.tga"] = {["nFrames"] = 166, ["frameWidth"] = 43, ["frameHeight"] = 32, ["imageWidth"]= 43, ["imageHeight"]= 5312, ["framerate"] = 29}
 TwitchEmotes_animation_metadata[basePath .. "1984.tga"] = {["nFrames"] = 30, ["frameWidth"] = 43, ["frameHeight"] = 32, ["imageWidth"]= 43, ["imageHeight"]= 960, ["framerate"] = 20}
 TwitchEmotes_animation_metadata[basePath .. "buffsticking.tga"] = {["nFrames"] = 2, ["frameWidth"] = 95, ["frameHeight"] = 32, ["imageWidth"]= 95, ["imageHeight"]= 64, ["framerate"] = 25}
 TwitchEmotes_animation_metadata[basePath .. "BompaWave.tga"] = {["nFrames"] = 44, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1408, ["framerate"] = 25}

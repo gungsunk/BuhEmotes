@@ -1,7 +1,7 @@
 ## Interface: 11508
-## Version: 15
+## Version: 19
 ## Title: Buh Twitch Emotes
-## IconTexture: Interface\AddOns\TwitchEmotes\Emotes\1337.tga
+## IconTexture: Interface\AddOns\TwitchEmotes_Buh\Emotes\buhL.tga
 ## Dependencies: TwitchEmotes
 emotes.lua
 animation.lua

@@ -67,6 +67,10 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 - happgrE
 - fishE
 
+#### Renamed emotes:
+- AHA to aha
+- catWhat to wha
+
 ### v18
 
 #### New emotes:

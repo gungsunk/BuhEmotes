@@ -9,6 +9,64 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 
 ## Added emotes
 
+### v19
+
+#### New emotes:
+- Chudbert
+- Chud
+- HighCortisol
+- tuuh
+- creatureGosling
+- Creatine
+- creatureSingingAtYou
+- creatureDespair
+- creatureStranglingForsen
+- creaturePretendingThatHeDidntSeeThatRetardedMessageInChat
+- creatureBalloon
+- YOU
+- creatureomE
+- Delightful
+- Truthful
+- Forisn
+- creatureAwaken
+- creatureCD
+- TRUEING
+- Agaa
+- creatureFlex
+- catKok
+- catPog
+- catProgramming
+- creatureStranglingTa
+- Memories
+- MarioGoatse
+- amiRight
+- dualipa
+- valeeragoodman
+- HEWILLNEVER
+- LowCortisol
+- LimeSoftware
+- catFaint
+- FishingeDespair
+- Fishinge
+- smokedSalmon
+- deadbertfather
+- spoingusFishing
+- FISHINGADDICT
+- beOlrite
+- dansi
+- GEM
+- Average
+- Xaleria
+- WISDOM
+- ArmsWarrior
+- FLASHBANG
+- Shiza
+- Hypnime
+- nokak
+- Looking
+- happgrE
+- fishE
+
 ### v18
 
 #### New emotes:

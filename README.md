@@ -9,6 +9,41 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 
 ## Added emotes
 
+### v20
+
+#### New emotes:
+- clorp
+- ANGRIEST
+- lo
+- creatureGun
+- bogE
+- wearesofucked
+- DocFuckingDiesInACarCrash
+- AREYOUATANK
+- docBanThisChatter
+- docBanThatChatter
+- CALLIT
+- creatureBall
+- GemAlarm
+- creaturePanicAttack
+- buh2
+- faxx
+- Calm
+- EndingIT
+- Pivo
+- PuzzleTime
+- whitepeopleHappy
+- Beange
+- Chatten
+- ppType
+- DonkCrayon
+- CrayonTime
+- dankEat
+- rar
+- DUMB
+- KILLTHATBOY
+- LOVETHATBOY
+
 ### v19
 
 #### New emotes:

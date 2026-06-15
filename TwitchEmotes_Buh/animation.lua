@@ -1,4 +1,26 @@
 basePath = "Interface\\AddOns\\TwitchEmotes_Buh\\emotes\\";
+TwitchEmotes_animation_metadata[basePath .. "creatureGun.tga"] = {["nFrames"] = 54, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1728, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "wearesofucked.tga"] = {["nFrames"] = 80, ["frameWidth"] = 44, ["frameHeight"] = 32, ["imageWidth"]= 44, ["imageHeight"]= 2560, ["framerate"] = 27}
+TwitchEmotes_animation_metadata[basePath .. "DocFuckingDiesInACarCrash.tga"] = {["nFrames"] = 90, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 2880, ["framerate"] = 25}
+TwitchEmotes_animation_metadata[basePath .. "AREYOUATANK.tga"] = {["nFrames"] = 56, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1792, ["framerate"] = 14}
+TwitchEmotes_animation_metadata[basePath .. "docBanThisChatter.tga"] = {["nFrames"] = 97, ["frameWidth"] = 55, ["frameHeight"] = 32, ["imageWidth"]= 55, ["imageHeight"]= 3104, ["framerate"] = 16}
+TwitchEmotes_animation_metadata[basePath .. "docBanThatChatter.tga"] = {["nFrames"] = 97, ["frameWidth"] = 55, ["frameHeight"] = 32, ["imageWidth"]= 55, ["imageHeight"]= 3104, ["framerate"] = 16}
+TwitchEmotes_animation_metadata[basePath .. "creatureBall.tga"] = {["nFrames"] = 8, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 256, ["framerate"] = 9}
+TwitchEmotes_animation_metadata[basePath .. "GemAlarm.tga"] = {["nFrames"] = 105, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 3360, ["framerate"] = 30}
+TwitchEmotes_animation_metadata[basePath .. "creaturePanicAttack.tga"] = {["nFrames"] = 168, ["frameWidth"] = 64, ["frameHeight"] = 32, ["imageWidth"]= 64, ["imageHeight"]= 5376, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "faxx.tga"] = {["nFrames"] = 41, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1312, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "EndingIT.tga"] = {["nFrames"] = 69, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 2208, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "Pivo.tga"] = {["nFrames"] = 124, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 3968, ["framerate"] = 14}
+TwitchEmotes_animation_metadata[basePath .. "PuzzleTime.tga"] = {["nFrames"] = 65, ["frameWidth"] = 58, ["frameHeight"] = 32, ["imageWidth"]= 58, ["imageHeight"]= 2080, ["framerate"] = 20}
+TwitchEmotes_animation_metadata[basePath .. "Chatten.tga"] = {["nFrames"] = 10, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 320, ["framerate"] = 50}
+TwitchEmotes_animation_metadata[basePath .. "ppType.tga"] = {["nFrames"] = 2, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 64, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "DonkCrayon.tga"] = {["nFrames"] = 100, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 3200, ["framerate"] = 12}
+TwitchEmotes_animation_metadata[basePath .. "CrayonTime.tga"] = {["nFrames"] = 29, ["frameWidth"] = 29, ["frameHeight"] = 32, ["imageWidth"]= 29, ["imageHeight"]= 928, ["framerate"] = 20}
+TwitchEmotes_animation_metadata[basePath .. "dankEat.tga"] = {["nFrames"] = 28, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 896, ["framerate"] = 12}
+TwitchEmotes_animation_metadata[basePath .. "rar.tga"] = {["nFrames"] = 146, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 4672, ["framerate"] = 50}
+TwitchEmotes_animation_metadata[basePath .. "KILLTHATBOY.tga"] = {["nFrames"] = 53, ["frameWidth"] = 80, ["frameHeight"] = 32, ["imageWidth"]= 80, ["imageHeight"]= 1696, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "LOVETHATBOY.tga"] = {["nFrames"] = 68, ["frameWidth"] = 75, ["frameHeight"] = 32, ["imageWidth"]= 75, ["imageHeight"]= 2176, ["framerate"] = 14}
+
 TwitchEmotes_animation_metadata[basePath .. "tuuh.tga"] = {["nFrames"] = 44, ["frameWidth"] = 57, ["frameHeight"] = 32, ["imageWidth"]= 57, ["imageHeight"]= 1408, ["framerate"] = 9}
 TwitchEmotes_animation_metadata[basePath .. "creatureSingingAtYou.tga"] = {["nFrames"] = 300, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 9600, ["framerate"] = 20}
 TwitchEmotes_animation_metadata[basePath .. "creatureBalloon.tga"] = {["nFrames"] = 186, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 5952, ["framerate"] = 33}

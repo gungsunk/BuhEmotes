@@ -1,4 +1,31 @@
 basePath = "Interface\\AddOns\\TwitchEmotes_Buh\\emotes\\";
+TwitchEmotes_animation_metadata[basePath .. "hub.tga"] = {["nFrames"] = 117, ["frameWidth"] = 45, ["frameHeight"] = 32, ["imageWidth"]= 45, ["imageHeight"]= 3744, ["framerate"] = 20}
+TwitchEmotes_animation_metadata[basePath .. "WE.tga"] = {["nFrames"] = 107, ["frameWidth"] = 43, ["frameHeight"] = 32, ["imageWidth"]= 43, ["imageHeight"]= 3424, ["framerate"] = 25}
+TwitchEmotes_animation_metadata[basePath .. "LETSFUCKINGPISS.tga"] = {["nFrames"] = 10, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 320, ["framerate"] = 5}
+TwitchEmotes_animation_metadata[basePath .. "creatureBelly.tga"] = {["nFrames"] = 50, ["frameWidth"] = 56, ["frameHeight"] = 32, ["imageWidth"]= 56, ["imageHeight"]= 1600, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "divBelly.tga"] = {["nFrames"] = 54, ["frameWidth"] = 64, ["frameHeight"] = 32, ["imageWidth"]= 64, ["imageHeight"]= 1728, ["framerate"] = 21}
+TwitchEmotes_animation_metadata[basePath .. "om.tga"] = {["nFrames"] = 4, ["frameWidth"] = 96, ["frameHeight"] = 21, ["imageWidth"]= 96, ["imageHeight"]= 84, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "speedVibe.tga"] = {["nFrames"] = 269, ["frameWidth"] = 96, ["frameHeight"] = 31, ["imageWidth"]= 96, ["imageHeight"]= 8339, ["framerate"] = 49}
+TwitchEmotes_animation_metadata[basePath .. "AwareMan.tga"] = {["nFrames"] = 21, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 672, ["framerate"] = 5}
+TwitchEmotes_animation_metadata[basePath .. "Uware.tga"] = {["nFrames"] = 19, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 608, ["framerate"] = 4}
+TwitchEmotes_animation_metadata[basePath .. "peepoTrip.tga"] = {["nFrames"] = 80, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 2560, ["framerate"] = 20}
+TwitchEmotes_animation_metadata[basePath .. "thatsCrazy.tga"] = {["nFrames"] = 79, ["frameWidth"] = 96, ["frameHeight"] = 32, ["imageWidth"]= 96, ["imageHeight"]= 2528, ["framerate"] = 9}
+TwitchEmotes_animation_metadata[basePath .. "heVegan.tga"] = {["nFrames"] = 107, ["frameWidth"] = 36, ["frameHeight"] = 32, ["imageWidth"]= 36, ["imageHeight"]= 3424, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "NAILS.tga"] = {["nFrames"] = 32, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1024, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "wingsCozy.tga"] = {["nFrames"] = 111, ["frameWidth"] = 59, ["frameHeight"] = 32, ["imageWidth"]= 59, ["imageHeight"]= 3552, ["framerate"] = 30}
+TwitchEmotes_animation_metadata[basePath .. "ass23.tga"] = {["nFrames"] = 300, ["frameWidth"] = 96, ["frameHeight"] = 32, ["imageWidth"]= 96, ["imageHeight"]= 9600, ["framerate"] = 33}
+TwitchEmotes_animation_metadata[basePath .. "NOOB.tga"] = {["nFrames"] = 6, ["frameWidth"] = 96, ["frameHeight"] = 32, ["imageWidth"]= 96, ["imageHeight"]= 192, ["framerate"] = 3}
+TwitchEmotes_animation_metadata[basePath .. "Begging.tga"] = {["nFrames"] = 115, ["frameWidth"] = 53, ["frameHeight"] = 32, ["imageWidth"]= 53, ["imageHeight"]= 3680, ["framerate"] = 50}
+TwitchEmotes_animation_metadata[basePath .. "Speechfull.tga"] = {["nFrames"] = 127, ["frameWidth"] = 31, ["frameHeight"] = 32, ["imageWidth"]= 31, ["imageHeight"]= 4064, ["framerate"] = 19}
+TwitchEmotes_animation_metadata[basePath .. "Pensive.tga"] = {["nFrames"] = 304, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 9728, ["framerate"] = 56}
+TwitchEmotes_animation_metadata[basePath .. "divBaiting.tga"] = {["nFrames"] = 36, ["frameWidth"] = 57, ["frameHeight"] = 32, ["imageWidth"]= 57, ["imageHeight"]= 1152, ["framerate"] = 10}
+TwitchEmotes_animation_metadata[basePath .. "VeryTay.tga"] = {["nFrames"] = 67, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 2144, ["framerate"] = 24}
+TwitchEmotes_animation_metadata[basePath .. "tayPls.tga"] = {["nFrames"] = 345, ["frameWidth"] = 28, ["frameHeight"] = 32, ["imageWidth"]= 28, ["imageHeight"]= 11040, ["framerate"] = 24}
+TwitchEmotes_animation_metadata[basePath .. "tayWave.tga"] = {["nFrames"] = 15, ["frameWidth"] = 33, ["frameHeight"] = 32, ["imageWidth"]= 33, ["imageHeight"]= 480, ["framerate"] = 9}
+TwitchEmotes_animation_metadata[basePath .. "omgSon.tga"] = {["nFrames"] = 50, ["frameWidth"] = 57, ["frameHeight"] = 32, ["imageWidth"]= 57, ["imageHeight"]= 1600, ["framerate"] = 20}
+TwitchEmotes_animation_metadata[basePath .. "wifeBall.tga"] = {["nFrames"] = 31, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 992, ["framerate"] = 14}
+TwitchEmotes_animation_metadata[basePath .. "Belly.tga"] = {["nFrames"] = 432, ["frameWidth"] = 56, ["frameHeight"] = 32, ["imageWidth"]= 56, ["imageHeight"]= 13824, ["framerate"] = 49}
+
 TwitchEmotes_animation_metadata[basePath .. "creatureGun.tga"] = {["nFrames"] = 54, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1728, ["framerate"] = 10}
 TwitchEmotes_animation_metadata[basePath .. "wearesofucked.tga"] = {["nFrames"] = 80, ["frameWidth"] = 44, ["frameHeight"] = 32, ["imageWidth"]= 44, ["imageHeight"]= 2560, ["framerate"] = 27}
 TwitchEmotes_animation_metadata[basePath .. "DocFuckingDiesInACarCrash.tga"] = {["nFrames"] = 90, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 2880, ["framerate"] = 25}

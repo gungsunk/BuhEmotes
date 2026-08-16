@@ -8,6 +8,61 @@ Retail - (\World of Warcraft\\\_retail_\Interface\AddOns\\)
 Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)  
 
 ## Added emotes
+### v21
+
+#### New emotes:
+- Liquid
+- Echo
+- feaky
+- Weirdege
+- WeirdMan
+- hub
+- WE
+- LETSFUCKINGPISS
+- creatureBelly
+- divBelly
+- ALULU
+- HR
+- om
+- speedVibe
+- CluelessClown
+- AwareMan
+- Uware
+- peepoTrip
+- thatsCrazy
+- frfr
+- heVegan
+- mon
+- NotVeryIRIE
+- WAHOO
+- TrollBean
+- NAILS
+- SNAILS
+- cozE
+- wingsCozy
+- snakE
+- snekege
+- FeelsSnakeMan
+- ass23
+- LOSER
+- NOOB
+- Begging
+- 1Percent
+- Yamon
+- Speechfull
+- Pensive
+- divBaiting
+- VeryTay
+- tayPls
+- tayWave
+- omgSon
+- wifeBall
+- Belly
+- WideDuck
+- NOTMYPROBLEM
+
+#### Other:
+- LO fixed
 
 ### v20
 

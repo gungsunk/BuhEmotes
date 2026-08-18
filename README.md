@@ -46,7 +46,7 @@ Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)
 - ass23
 - LOSER
 - NOOB
-- Begging
+- BEGGING
 - 1Percent
 - Yamon
 - Speechfull

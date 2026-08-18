@@ -330,7 +330,6 @@ TwitchEmotes_animation_metadata[basePath .. "forsenGravity.tga"] = {["nFrames"] 
 TwitchEmotes_animation_metadata[basePath .. "Liming.tga"] = {["nFrames"] = 7, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 224, ["framerate"] = 5}
 TwitchEmotes_animation_metadata[basePath .. "segs.tga"] = {["nFrames"] = 368, ["frameWidth"] = 28, ["frameHeight"] = 32, ["imageWidth"]= 28, ["imageHeight"]= 11776, ["framerate"] = 33}
 TwitchEmotes_animation_metadata[basePath .. "YESKING.tga"] = {["nFrames"] = 75, ["frameWidth"] = 35, ["frameHeight"] = 32, ["imageWidth"]= 35, ["imageHeight"]= 2400, ["framerate"] = 10}
-TwitchEmotes_animation_metadata[basePath .. "BEGGING.tga"] = {["nFrames"] = 105, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 3360, ["framerate"] = 29}
 TwitchEmotes_animation_metadata[basePath .. "ThankYou.tga"] = {["nFrames"] = 413, ["frameWidth"] = 80, ["frameHeight"] = 32, ["imageWidth"]= 80, ["imageHeight"]= 13216, ["framerate"] = 50}
 TwitchEmotes_animation_metadata[basePath .. "BOBER.tga"] = {["nFrames"] = 147, ["frameWidth"] = 27, ["frameHeight"] = 32, ["imageWidth"]= 27, ["imageHeight"]= 4704, ["framerate"] = 33}
 TwitchEmotes_animation_metadata[basePath .. "catAsk.tga"] = {["nFrames"] = 63, ["frameWidth"] = 21, ["frameHeight"] = 32, ["imageWidth"]= 21, ["imageHeight"]= 2016, ["framerate"] = 25}

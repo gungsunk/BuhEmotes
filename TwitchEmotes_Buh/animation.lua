@@ -1,4 +1,5 @@
 basePath = "Interface\\AddOns\\TwitchEmotes_Buh\\emotes\\";
+TwitchEmotes_animation_metadata[basePath .. "BEGGING_cat.tga"] = {["nFrames"] = 105, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 3360, ["framerate"] = 29}
 TwitchEmotes_animation_metadata[basePath .. "hub.tga"] = {["nFrames"] = 117, ["frameWidth"] = 45, ["frameHeight"] = 32, ["imageWidth"]= 45, ["imageHeight"]= 3744, ["framerate"] = 20}
 TwitchEmotes_animation_metadata[basePath .. "WE.tga"] = {["nFrames"] = 107, ["frameWidth"] = 43, ["frameHeight"] = 32, ["imageWidth"]= 43, ["imageHeight"]= 3424, ["framerate"] = 25}
 TwitchEmotes_animation_metadata[basePath .. "LETSFUCKINGPISS.tga"] = {["nFrames"] = 10, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 320, ["framerate"] = 5}

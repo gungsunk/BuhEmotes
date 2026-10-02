@@ -1,6 +1,9 @@
 basePath = "Interface\\AddOns\\TwitchEmotes_Buh\\emotes\\"
 
 buh_emotes = {
+	["BEGGING"] = basePath .. "BEGGING_cat.tga:28:28",
+	["lo"] = basePath .. "lo_small.tga:28:28",
+
 	["Liquid"] = basePath .. "Liquid.tga:28:24",
 	["Echo"] = basePath .. "Echo.tga:28:28",
 	["feaky"] = basePath .. "feaky.tga:28:84",
@@ -36,7 +39,7 @@ buh_emotes = {
 	["ass23"] = basePath .. "ass23.tga:28:84",
 	["LOSER"] = basePath .. "LOSER.tga:28:92",
 	["NOOB"] = basePath .. "NOOB.tga:28:84",
-	["BEGGING"] = basePath .. "Begging.tga:28:46",
+	["Begging"] = basePath .. "Begging.tga:28:46",
 	["1Percent"] = basePath .. "1Percent.tga:28:44",
 	["Yamon"] = basePath .. "Yamon.tga:28:28",
 	["Speechfull"] = basePath .. "Speechfull.tga:28:27",

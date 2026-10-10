@@ -8,6 +8,77 @@ Retail - (\World of Warcraft\\\_retail_\Interface\AddOns\\)
 Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)  
 
 ## Added emotes
+### v22
+
+#### New emotes:
+- Degloved
+- HaveASeat
+- YouSeeHowThisLooks
+- GETALIFE
+- goodboy
+- pokiBlood
+- hesCuh
+- Erk
+- mrm
+- CupOfTupid
+- tupidCake
+- tupidSquish
+- peepoTupid
+- ouushi
+- guh
+- PARDON
+- Bait
+- neededDat
+- DUNDUN
+- gokuKneel
+- 69Kneel
+- Worship
+- forsenMaldingAtYou
+- docJumped
+- YEAHBUTBTTV
+- forsenSenor
+- ppSenora
+- halondrusRave
+- NoHoly
+- PEEPTHEHORROR
+- Handsome
+- Jeremy
+- catErma985
+- DaJonker
+- delectable
+- jermaZerk
+- myHonestReaction
+- SparkleOn
+- parasocial
+- MOTIVATION
+- IAMTHESTORMTHATISAPPROACHING
+- GREED
+- LA
+- ENOUGH
+- gopissgirl
+- moneyspread
+- sAAAdge
+- DrLesCarterLookingAtYou
+- madsE
+- Yap
+- YAPP
+- hesYapping
+- hesCappin
+- Fog
+- HOOOOLD
+- WhatDoesHeEvenDo
+- AHAHAHAHA
+- Oranges
+- Gamble
+- OhMyGod
+- glorpFat
+- PLEASE
+- Glizzing
+- PagPeppah
+- LETSGOBB
+- PfftttStare
+- Orange
+
 ### v21
 
 #### New emotes:

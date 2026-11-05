@@ -8,6 +8,57 @@ Retail - (\World of Warcraft\\\_retail_\Interface\AddOns\\)
 Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)  
 
 ## Added emotes
+### v23
+
+#### New emotes:
+- BUBBA
+- SAATANA
+- PERKELE
+- dbl
+- dublo
+- DUBALOOOO
+- buhbye
+- littlefuckassdog
+- DUBLOO
+- BO
+- buhtime
+- Deglobalization
+- sayWALLAHI
+- speedConcerned
+- wife52
+- wifeCute
+- wifeGRRR
+- wifeBoobs
+- bibi
+- aga
+- watdatmean
+- mmmm
+- peepoCamp
+- Totem
+- Kisses
+- ITSTIME
+- Delicacy
+- markoftheglorp
+- glorpemental
+- shammnn
+- Delusional
+- catClap
+- forsenHRT
+- MILKIES
+- ALRIGHT
+- Forever
+- Momoi
+- creatureBlob
+- wilted_flower
+- omgLeave
+- omgJudge
+- omgArrive
+- omgDance
+- SPIT
+- WhatDoesSheEvenDo
+- speedDrool
+- SLOP
+- DiedOfHeat
 ### v22
 
 #### New emotes:

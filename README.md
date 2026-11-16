@@ -8,6 +8,88 @@ Retail - (\World of Warcraft\\\_retail_\Interface\AddOns\\)
 Classic - (\World of Warcraft\\\_classic_era_\Interface\AddOns\\)  
 
 ## Added emotes
+
+### v24
+
+#### New emotes:
+- docFaint
+- Chefbert
+- catPizza
+- ESPRESSO
+- TateNailBite
+- TateClockIt
+- Fingerbite
+- emiruNOWAY
+- emiruGiggles
+- LEVITATING
+- emiruSturdy
+- MerryChristmas
+- emiruThinking
+- Sabrina
+- BeerCat
+- kittenhater
+- awoo
+- catPeed
+- ouhh
+- hesPP
+- arribuh
+- SAVEMEBIBI
+- docRun
+- angri
+- docFlex
+- Jesus
+- Evilge
+- boh
+- bhu
+- catNope
+- catInspecting
+- ImReady
+- bruhShit
+- bruhSit
+- BRUH
+- wh
+- whar
+- UNC
+- IsThatSo
+- BASED
+- MORE
+- PLAINSRUNNING
+- madcat
+- notMad
+- bub
+- nymnBoulets
+- SON
+- soneybun
+- sonion
+- forsenGladge
+- catCamp
+- OrbPondering
+- DONTSTAYAWAKE
+- awks
+- VITTU
+- ZULOWL
+- RFKDisappoint
+- docAnalyzing
+- BroodjeKroket
+- Frikandelbroodje
+- bamischijf
+- LAYERED
+- forsenAdvice
+- forsenPossessed
+- creatureSadE
+- docDodge
+- DrCupcake
+- BBLookingAtYou
+- HouseDance
+- SHALOM
+- forsenSprint
+- forsenRun
+- LINUX
+- wideWAS
+- o
+- catDancer
+- catSway
+
 ### v23
 
 #### New emotes:

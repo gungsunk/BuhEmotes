@@ -397,7 +397,6 @@ TwitchEmotes_animation_metadata[basePath .. "BompaWave.tga"] = {["nFrames"] = 44
 TwitchEmotes_animation_metadata[basePath .. "deadlole.tga"] = {["nFrames"] = 19, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 608, ["framerate"] = 6}
 TwitchEmotes_animation_metadata[basePath .. "ratBath.tga"] = {["nFrames"] = 66, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 2112, ["framerate"] = 25}
 TwitchEmotes_animation_metadata[basePath .. "SHOWER.tga"] = {["nFrames"] = 41, ["frameWidth"] = 27, ["frameHeight"] = 32, ["imageWidth"]= 27, ["imageHeight"]= 1312, ["framerate"] = 9}
-TwitchEmotes_animation_metadata[basePath .. "LFG.tga"] = {["nFrames"] = 35, ["frameWidth"] = 32, ["frameHeight"] = 32, ["imageWidth"]= 32, ["imageHeight"]= 1120, ["framerate"] = 9}
 TwitchEmotes_animation_metadata[basePath .. "PTSD.tga"] = {["nFrames"] = 291, ["frameWidth"] = 41, ["frameHeight"] = 32, ["imageWidth"]= 41, ["imageHeight"]= 9312, ["framerate"] = 33}
 TwitchEmotes_animation_metadata[basePath .. "buhShakey.tga"] = {["nFrames"] = 15, ["frameWidth"] = 33, ["frameHeight"] = 32, ["imageWidth"]= 33, ["imageHeight"]= 480, ["framerate"] = 14}
 TwitchEmotes_animation_metadata[basePath .. "loel.tga"] = {["nFrames"] = 78, ["frameWidth"] = 52, ["frameHeight"] = 28, ["imageWidth"]= 52, ["imageHeight"]= 2184, ["framerate"] = 17}
